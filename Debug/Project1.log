@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Murat\source\repos\TermProject\ÖDEVİM\Source.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Murat\source\repos\TermProject\ÖDEVİM\Source.cpp(130,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Murat\source\repos\TermProject\ÖDEVİM\Source.cpp(131,33): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Murat\source\repos\TermProject\ÖDEVİM\Source.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
